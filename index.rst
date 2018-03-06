@@ -118,6 +118,7 @@ Advanced Tutorials
 .. customgalleryitem::
    :tooltip: Implement custom extensions in C.
    :description: :doc:`/advanced/c_extension`
+   :figure: _static/img/cpp_logo.png
 
 
 .. raw:: html
